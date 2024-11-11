@@ -1,0 +1,19 @@
+{
+  "name": "projectweb-ninjafood",
+  "version": "1.0.0",
+  "description": "```\r git clone https://github.com/poetri598/ProjectWEB-ninjafood.git\r ```",
+  "main": "tailwind-default.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "nodemon": "^3.1.7",
+    "postcss": "^8.4.48",
+    "tailwindcss": "^3.4.14"
+  }
+}
